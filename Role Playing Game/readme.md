@@ -12,3 +12,9 @@ This practice project is designed to help you grasp fundamental programming conc
 - Functions
 - Loops
 - Conditional statements (if/else)
+
+## Key Learning Objectives
+
+- **Hands-On JavaScript Coding:** Dive into practical coding exercises to strengthen your JavaScript skills.
+- **Programming Fundamentals:** Explore and apply fundamental programming concepts in a real-world scenario.
+- **Interactive Web Development:** Understand how JavaScript enhances web development by creating interactive and dynamic content.
