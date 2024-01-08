@@ -26,9 +26,5 @@ const isPalindrome = (word) => {
     //reverse word
     const reverseWord = wordLowerCase.split('').reverse().join('');    
     console.log("reverse: " + reverseWord);
-    if (wordLowerCase === reverseWord) {
-        return true;
-    } else {
-        return false;
-    }
+  return wordLowerCase === reverseWord;
 }
