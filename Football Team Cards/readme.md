@@ -1,6 +1,7 @@
 # Football Team Cards Web Application
 
-Learn Modern JavaScript Methods by building a Football Team Cards web application. This project focuses on processing datasets and presenting information on the screen. Through this hands-on experience, you'll delve into DOM manipulation, object destructuring, event handling, and data filtering.
+Undertook the challenge of mastering modern JavaScript methods by building a Football Team Cards web application. This project emphasized processing datasets and dynamically presenting information on the screen. Through hands-on experience, I delved into DOM manipulation, object destructuring, event handling, and data filtering.
+
 
 ## Project Overview
 
