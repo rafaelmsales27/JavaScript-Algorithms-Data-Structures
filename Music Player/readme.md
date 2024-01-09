@@ -1,6 +1,6 @@
 # Basic MP3 Player Web Application
 
-Let's delve into essential string and array methods by building a basic MP3 player using HTML, CSS, and JavaScript. This project aims to strengthen your understanding of crucial concepts such as handling audio playback, managing a playlist, and implementing features like play, pause, next, previous, and shuffle functionalities. You'll also learn how to dynamically update your user interface based on the current song.
+Took on the challenge of deepening my understanding of essential string and array methods by building a basic MP3 player using HTML, CSS, and JavaScript. This project aimed to strengthen my grasp on crucial concepts such as handling audio playback, managing a playlist, and implementing features like play, pause, next, previous, and shuffle functionalities. Through this hands-on experience, I also learned how to dynamically update the user interface based on the current song.
 
 ## Project Overview
 
