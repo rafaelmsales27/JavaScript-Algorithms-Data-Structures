@@ -1,6 +1,6 @@
 # LocalStorage Todo App
 
-Learn LocalStorage by building a Todo App. This project introduces you to the concept of LocalStorage, a web browser feature that allows web applications to store key-value pairs persistently within a user's browser. Throughout this TODO application, you'll gain practical experience handling form inputs, managing local storage, and implementing CRUD (Create, Read, Update, Delete) operations on tasks. Additionally, you'll explore event listeners and toggling UI elements.
+Took the initiative to learn LocalStorage by building a Todo App. This project introduced me to the concept of LocalStorage, a web browser feature that allows web applications to store key-value pairs persistently within a user's browser. Throughout this hands-on experience, I gained practical skills in handling form inputs, managing local storage, and implementing CRUD (Create, Read, Update, Delete) operations on tasks. I also explored event listeners and toggling UI elements for a seamless user experience.
 
 ## Project Overview
 
