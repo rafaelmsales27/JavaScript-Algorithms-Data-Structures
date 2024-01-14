@@ -1,6 +1,6 @@
 # Decimal to Binary Converter with Recursion
 
-Learn recursion by building a Decimal to Binary Converter. Recursion, a powerful programming concept, involves a function calling itself, breaking down complex problems into simpler sub-problems until they become straightforward to solve. In this project, you'll explore the fundamental concepts of recursion, delve into the call stack, and build a visual representation of the recursion process through an animation.
+Tackled the challenge of learning recursion by building a Decimal to Binary Converter. Recursion, a powerful programming concept, involves a function calling itself, breaking down complex problems into simpler sub-problems until they become straightforward to solve. In this project, I explored the fundamental concepts of recursion, delving into the call stack, and built a visual representation of the recursion process through an animation.
 
 ## Project Overview
 
