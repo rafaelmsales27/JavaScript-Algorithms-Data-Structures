@@ -4,7 +4,7 @@ Took on the challenge of deepening my understanding of essential string and arra
 
 ## Project Overview
 
-This hands-on project will guide you through the implementation of a basic MP3 player, covering essential JavaScript methods, including:
+This hands-on project has guided me through the implementation of a basic MP3 player, covering essential JavaScript methods, including:
 
 - `find()`: Locating specific elements in an array.
 - `forEach()`: Iterating through array elements.
