@@ -7,5 +7,7 @@ convertBtn.addEventListener("click", ()=>{
         output.innerText = "Please enter a valid number";
     } else if ((Number(numberInput))<0) {
         output.innerText = "Please enter a number greater than or equal to 1";
+    } else if ((Number(numberInput))>4000) {
+        output.innerText = "Please enter a number less than or equal to 3999";
     }
 });
